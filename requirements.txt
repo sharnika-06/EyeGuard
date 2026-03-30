@@ -1,0 +1,13 @@
+opencv-python
+mediapipe
+numpy
+keyboard
+pyautogui
+plyer
+pystray
+Pillow
+anthropic
+scikit-learn
+pandas
+joblib
+screen-brightness-control
